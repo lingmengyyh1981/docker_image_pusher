@@ -1,1 +1,1 @@
-vaultwarden/server:latest
+linuxserver/calibre-web:latest
