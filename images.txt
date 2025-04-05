@@ -1,1 +1,1 @@
-XiaoMi/ha_xiaomi_home:latest
+homeassistant/home-assistant:latest
