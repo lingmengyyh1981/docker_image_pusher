@@ -1,1 +1,1 @@
-lanzhihong6/stock-scanner:latest
+Prowlarr/Prowlarr:latest
