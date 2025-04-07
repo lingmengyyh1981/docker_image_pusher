@@ -1,1 +1,1 @@
-Sonarr/Sonarr:latest
+sonarr/sonarr:latest
