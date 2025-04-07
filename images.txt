@@ -1,1 +1,3 @@
-Radarr/Radarr:latest
+linuxserver/radarr:latest
+linuxserver/prowlarr:latest
+linuxserver/sonarr:latest
