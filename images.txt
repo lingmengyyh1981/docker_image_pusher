@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:latest
+fallenbagel/jellyseerr:latest
