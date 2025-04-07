@@ -1,2 +1,1 @@
 hslr-s/sun-panel:latest
-linuxserver/qbittorrent:latest
