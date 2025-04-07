@@ -1,3 +1,1 @@
-linuxserver/radarr:latest
-linuxserver/prowlarr:latest
-linuxserver/sonarr:latest
+lanzhihong6/stock-scanner:latest
