@@ -1,1 +1,1 @@
-lanzhihong/stock-scanner:latest
+deluan/navidrome:latest
