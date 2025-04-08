@@ -1,1 +1,1 @@
-Prowlarr/Prowlarr:latest
+linuxserver/sonarr:latest
