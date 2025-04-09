@@ -1,1 +1,1 @@
-dyrnq/open-webui:latest
+linuxserver/bookstack:latest
