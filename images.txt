@@ -1,1 +1,1 @@
-xhongc/music-tag-web/watchtower:latest
+xhongc/music_tag_web/watchtower:latest
