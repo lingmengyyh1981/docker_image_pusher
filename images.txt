@@ -1,1 +1,1 @@
-bestzwei/libertv:latest
+bestzwei/libretv:latest
