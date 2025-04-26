@@ -1,1 +1,1 @@
-ourongxing/newsnow:latest
+CherryHQ/cherry-studio:latest
