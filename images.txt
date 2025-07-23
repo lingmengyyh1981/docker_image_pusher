@@ -1,1 +1,1 @@
-CherryHQ/cherry-studio:latest
+xinjiawei1/emby_unlockd:latest
